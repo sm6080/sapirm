@@ -1,0 +1,33 @@
+body{
+    background-color: powderblue;
+    font-family: verdana;
+}
+
+.all_site{
+    background-color: white;
+    width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.box1{
+    width: 150px;
+    height: 15px;
+    background-color: aqua;
+    float: left;
+}
+.box2{
+    width: 170px;
+    height: 15px;
+    background-color: skyblue;
+    float: left;
+
+}
+.box3{
+    width: 150px;
+    height: 15px;
+    background-color: lightblue;
+    float: left;
+}
+.clear{
+    clear: both;
+}
